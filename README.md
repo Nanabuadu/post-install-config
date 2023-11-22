@@ -77,7 +77,23 @@ Configure Agents: Admin Panel -> Agents -> Add New Agent -> Enter the Name, Emai
 <img src="https://i.imgur.com/1rufplL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Users: GO to the Agents Panel -> Users ->Add User -> Type in the name and Email address of the new user and click on Add User
+Configure Users: Go to the Agents Panel -> Users ->Add User -> Type in the name and Email address of the new user and click on Add User
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Hx5Np3w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Service Level Agreement (SLA): In the Admin Panel, go to Manage -> SLA -> CLick on Add New SLA Plan -> Set three different severity levels; SEV-A (1 hour, 24/7), SEV-B (4 hours, 24/7), SEV-C (8 hours, business hours).
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
