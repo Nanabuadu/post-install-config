@@ -50,6 +50,38 @@ Configure Departments: For the purpose of this project, we will add a new System
 <br />
 
 <p>
+<img src="https://i.imgur.com/mup1XUC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Teams: From the Admin panel, click on Agents -> Teams -> Add new Team -> Add level II Support -> click on Add team. Level II Support will be created successfully
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/rgkfH8E.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Allow anyone to create tickets: Admin Panel -> click on Settings -> User settings -> Uncheck the "Require registration and login to create tickets" box
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
