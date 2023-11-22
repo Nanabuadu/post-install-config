@@ -66,18 +66,18 @@ Allow anyone to create tickets: Admin Panel -> click on Settings -> User setting
 <br />
 
 <p>
-<img src="https://i.imgur.com/1IYndLM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QtTQXTG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Agents: Admin Panel -> Agents -> Add New Agent -> Enter the Name, Email address, Username and Password
+Configure Agents: Admin Panel -> Agents -> Add New Agent -> Enter the Name, Email address, Username and set a new password. Move to the next tab (Access) and assign a department to the Agent. Click on Create after assigning the department
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1rufplL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Users: GO to the Agents Panel -> Users ->Add User -> Type in the name and Email address of the new user and click on Add User
 </p>
 <br />
 
